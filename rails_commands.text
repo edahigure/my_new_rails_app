@@ -1,7 +1,7 @@
-rails generate scaffold Mesage text:string
+rails generate scaffold Message text:string
 
-msg1 = Mesage.create(text: "Hello world")
-msg2 = Mesage.create(text: "Hello mister")
-msg3 = Mesage.create(text: "good day ")
-msg4 = Mesage.create(text: "good morning ")
-msg5 = Mesage.create(text: "good afternoon")
+msg1 = Message.create(text: "Hello world")
+msg2 = Message.create(text: "Hello mister")
+msg3 = Message.create(text: "good day ")
+msg4 = Message.create(text: "good morning ")
+msg5 = Message.create(text: "good afternoon")
