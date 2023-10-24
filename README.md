@@ -94,7 +94,7 @@ To get a local copy up and running follow these simple example steps.
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/edahigure/budget-app.git
+  git clone https://github.com/edahigure/my_new_rails_app.git
 ```
 To install the necessary dependencies, you should run:
 
